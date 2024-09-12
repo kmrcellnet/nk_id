@@ -1,4 +1,4 @@
-<?php>
+<?php
 // Koneksi ke database
 include 'db.php';
 
